@@ -1,0 +1,11 @@
+src/VenMac.sv
+src/nickel.sv
+src/dime.sv
+src/quarter.sv
+src/ALU.sv
+src/ha.sv
+src/fa.sv
+src/adder6.sv
+src/latch6.sv
+src/twocomp.sv
+src/change.sv
